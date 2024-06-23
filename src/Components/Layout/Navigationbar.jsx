@@ -9,10 +9,10 @@ export default function Navigationbar() {
             <div>{"Natura in movimento A.P.S"}</div>
           </li>
           <li className="nav-item mx-2 mx-sm-2 mx-md-4 lg-mx-5 xl-mx-5">
-            <div>3405674325</div>
+            <div>{"0123456789"}</div>
           </li>
           <li className="nav-item mx-2 mx-sm-2 mx-md-4 lg-mx-5 xl-mx-5">
-            <div>{"naturainmovimento@gmail.com"}</div>
+            <div>{"naturainmovimento@****.it"}</div>
           </li>
         </ul>
       </div>
