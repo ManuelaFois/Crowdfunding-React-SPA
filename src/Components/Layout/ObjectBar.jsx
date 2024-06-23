@@ -19,7 +19,7 @@ export default function ObjectBar() {
           <div className="card border-0 h-100">
             <div className="card-body text-center d-flex align-items-center justify-content-center">
               <p className="card-text">
-              Educare i bambini al rispetto dell'ambiente e alla salvaguardia dell'ecosistema, con lo scopo di formare cittadini responsabili e consapevoli dell'impatto delle loro azioni sull'ambiente.
+              Educare i bambini al rispetto dell'ambiente e alla salvaguardia dell'ecosistema per formare cittadini responsabili e consapevoli.
               </p>
             </div>
           </div>
