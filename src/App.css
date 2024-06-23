@@ -1,0 +1,44 @@
+
+
+.link{
+    text-decoration: none;
+    color: rgb(255, 255, 255)
+}
+.nav{
+    background-color: transparent;
+}
+header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+    background-image: url(./Components/assets/Plant.jpg);
+    background-size:cover;
+    background-position-y: 30%;
+    margin-right: 0%;
+    }
+   .btn{
+    background-color: black;
+   }
+
+   footer{
+    text-align: center;
+    background-color: #448f0360;
+    padding-top:3rem;
+    padding-bottom: 1rem;
+    
+   }
+
+   main h3{
+    text-align: center;
+    border-bottom:solid;
+    border-bottom-color: #448f03; 
+    font-size: xx-large;
+    padding-top: 2rem;   
+    padding-right: 0%;
+}
+
+#PreviewBlogBar-container{
+    background-color:#448f03;
+   }
+
