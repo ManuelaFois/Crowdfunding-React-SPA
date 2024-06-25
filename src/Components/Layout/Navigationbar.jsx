@@ -6,7 +6,7 @@ export default function Navigationbar() {
       <div className="container-fluid px-0 mx-0">
         <div className="nav justify-content-start m-0">
           <div className="nav-item mx-2 mx-sm-2 mx-md-4 lg-mx-5 xl-mx-5">
-            <div>{"Natura in movimento A.P.S"}</div>
+            <div className="logo">{"Natura in movimento A.P.S"}</div>
           </div>
         </div>
       </div>
