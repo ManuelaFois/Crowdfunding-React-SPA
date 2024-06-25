@@ -4,17 +4,11 @@ export default function Navigationbar() {
   return (
     <>
       <div className="container-fluid px-0 mx-0">
-        <ul className="nav justify-content-start m-0">
-          <li className="nav-item mx-2 mx-sm-2 mx-md-4 lg-mx-5 xl-mx-5">
+        <div className="nav justify-content-start m-0">
+          <div className="nav-item mx-2 mx-sm-2 mx-md-4 lg-mx-5 xl-mx-5">
             <div>{"Natura in movimento A.P.S"}</div>
-          </li>
-          <li className="nav-item mx-2 mx-sm-2 mx-md-4 lg-mx-5 xl-mx-5">
-            <div>{"0123456789"}</div>
-          </li>
-          <li className="nav-item mx-2 mx-sm-2 mx-md-4 lg-mx-5 xl-mx-5">
-            <div>{"naturainmovimento@****.it"}</div>
-          </li>
-        </ul>
+          </div>
+        </div>
       </div>
       <div className="container-fluid px-0 mx-0">
         <ul className="nav justify-content-end">
